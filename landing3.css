@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+div.head{
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 18%;
+    color: red;
+    font-weight: 900;
+    font-style: oblique;
+    
+}
+div.body{
+    font-size: larger;
+    font-family: cursive;
+    color: red;
+}
+span.head{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: none;
+}
+a{
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.705);
+}
